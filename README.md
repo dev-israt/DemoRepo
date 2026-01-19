@@ -1,3 +1,3 @@
 # DemoRepo
-This is a demo repo. /n 
+This is a demo repo <br>
 Author - Israt Mim
